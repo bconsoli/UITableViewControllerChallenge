@@ -1,5 +1,5 @@
 //
-//  BCViewController.h
+//  BCTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Bill Consoli on 3/4/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BCViewController : UIViewController
+@interface BCTableViewController : UITableViewController
 
 @end
